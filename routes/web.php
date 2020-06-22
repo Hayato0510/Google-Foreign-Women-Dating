@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('dating', function () {
-    return view('google.check'); //仮LP
-    // return redirect('https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669'); //イククル - GameFeat
+    // return view('google.check'); //仮LP
+    return redirect('https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669'); //イククル - GameFeat
 });
 
 // LP確認用
