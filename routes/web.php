@@ -11,6 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// LP獲得用
+Route::get('dating', function () {
+    return view('google.check'); //仮LP
+    // return redirect('https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669'); //イククル - GameFeat
+});
+
+// LP確認用
+Route::get('cccheck', function () {
+    return view('google.check'); //仮LP
 });
