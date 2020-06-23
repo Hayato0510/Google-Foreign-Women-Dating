@@ -12,9 +12,9 @@
 */
 
 // LP獲得用
-Route::get('dating', function () {
+Route::get('jobs', function () {
     return view('google.check'); //仮LP
-    // return redirect('https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8218&site_id=27669'); //イククル - GameFeat
+    // return redirect('https://a-trade.jp/redirect/charin?media=G16531'); //チャリン - Aトレード
 });
 
 // LP確認用
