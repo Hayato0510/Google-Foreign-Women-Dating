@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('jobs', function () {
-    // return view('google.check'); //仮LP
-    return redirect('https://a-trade.jp/redirect/charin?media=G16531'); //チャリン - Aトレード
+    return view('google.check'); //仮LP
+    // return redirect('https://a-trade.jp/redirect/charin?media=G16531'); //チャリン - Aトレード
 });
 
 // LP確認用
