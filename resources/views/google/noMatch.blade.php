@@ -32,7 +32,7 @@
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>表向きは悩み相談。でも実際は...不埒な出会いが頻出する裏アプリ...!?</h1>
+                    <h1>表向きは悩み相談。でも実際は不埒な出会いが頻出する裏アプリ...!?</h1>
                     <p>2020年07月22日20:03</p>
                 </div>
                 
@@ -65,11 +65,11 @@
                     <!--<br>-->
                     <!--<br>-->
                     <h3>正直一番おすすめは紹介したくないから無理だけど、この辺りでも全然捕まえれるでー<br>使えるのはコレ！</h3>
-                    <a href="./app1" target="_blank"><img src="{{ asset('image/app_1.jpg') }}"></a>
+                    <a href="./app1" target="_blank"><img src="{{ asset('image/app_1.jpg') }}" class="wide"></a>
                     <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
-                    <a href="./app2" target="_blank"><img src="{{ asset('image/app_2.jpg') }}"></a>
+                    <a href="./app2" target="_blank"><img src="{{ asset('image/app_2.jpg') }}" class="wide"></a>
                     <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
-                    <a href="./app3" target="_blank"><img src="{{ asset('image/app_3.jpg') }}"></a>
+                    <a href="./app3" target="_blank"><img src="{{ asset('image/app_3.jpg') }}" class="wide"></a>
                     <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
                     <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>-->
                     <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/fatey</p></span></p></a>-->
