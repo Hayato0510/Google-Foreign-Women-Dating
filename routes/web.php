@@ -12,10 +12,21 @@
 */
 
 // LP獲得用
-Route::get('live', function () {
+Route::get('matching', function () {
     return view('google.check'); //仮LP
     // return redirect('https://a-trade.jp/redirect/charin?media=G16531'); //チャリン - Aトレード
 });
+
+//APP遷移用
+// APP(1)
+Route::get('app1', 'AdController@app1');
+
+// APP(2)
+Route::get('app2', 'AdController@app2');
+
+// APP(3)
+Route::get('app3', 'AdController@app3');
+
 
 // LP確認用
 Route::get('cccheck', function () {
