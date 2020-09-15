@@ -8,24 +8,18 @@ img {
   width: 80%;
 }
 
-.wide {
-  width: 100%;
-}
-
 /*ボタン*/
 .btn-square-shadow {
 display: inline-block;
 padding: 0.5em 1em;
 text-decoration: none;
-background: red;
+background: #009900;/*ボタン色*/
 color: #FFF;
 border-bottom: solid 4px #627295;
 border-radius: 3px;
 font-weight: bold;
 margin-bottom: 1em;
 }
-
-
 
 /*ヘッダー*/
 header {
@@ -51,7 +45,7 @@ header p {
 /*body-top*/
 .body-top {
   text-align: center;
-  padding: 0 0.3em;
+  padding: 0 1em;
 }
 
 .body-top h1 {
@@ -78,7 +72,6 @@ header p {
 
 .body-main h1 {
   font-size: 1.2em;
-  color: grey;
 }
 
 .body-main p {
@@ -100,7 +93,7 @@ header p {
 }
 
 .body-main-3 h3 {
-  color: red;
+  font-weight: bold;
 }
 
 .body-main-3 p {
@@ -148,4 +141,28 @@ footer {
 footer p {
   color: white;
   font-weight: bold;
+}
+
+.wide {
+  width: 100%;
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.center p {
+    text-align: left;
+}
+
+.body-main-3 .red {
+  color: red;
+  font-weight: bold;
+  border-bottom: 2px solid red;
+}
+
+.line2 {
+    border-bottom: 2px solid grey;
+    padding-bottom: 2em;
 }

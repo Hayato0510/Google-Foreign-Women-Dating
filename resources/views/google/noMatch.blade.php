@@ -4,96 +4,71 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>激ヤバ話題まとめ@5ch</title>
+        <title>裏垢女子まとめ@5ch</title>
         <link href="{{ secure_asset('css/noMatch.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
         <header>
-            <p>激ヤバ話題まとめ@5ch</p>
+            <p>裏垢女子まとめ@5ch</p>
         </header>
         
         <div class="big-body">
             <div class="body-top">
-                <img src="{{ asset('image/erManga_01.jpg') }}" class="wide">
-                <img src="{{ asset('image/erManga_02.jpg') }}" class="wide">
-                <img src="{{ asset('image/erManga_03.jpg') }}" class="wide">
-                <img src="{{ asset('image/erManga_1.JPG') }}" class="wide">
-                <img src="{{ asset('image/erManga_2.JPG') }}" class="wide">
-                <img src="{{ asset('image/erManga_3.jpg') }}" class="wide">
-                <img src="{{ asset('image/erManga_4.jpg') }}" class="wide">
-                <!--<br>-->
-                <h1><span class="body-top-span">この続きはリアルで体験...!?<br>現役ロリと出会える裏アプリとは!?<br><br><i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i> <i class="far fa-hand-point-down"></i></span></h1>
-                <!--<h1><span class="body-top-span">承認欲求の塊！割とガチでえぐいw<br>裏垢女子がこぞって脱いでオナ電・生オナ配信してるwww</span></h1>-->
-                <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>-->
-                <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>-->
-                <!--<p>生配信のスクショ! IDで検索すれば過去配信閲覧できるでー</p>-->
+                <h1><span>『裏垢男子』必見!!!</span></h1>
+                <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
+                <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
+                <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
+                <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>表向きは悩み相談。でも実際は不埒な出会いが頻出する裏アプリ...!?</h1>
-                    <p>2020年07月22日20:03</p>
+                    <h1>インスタ・Twitter・TikTokで垢BANされた裏垢女子多数！<br>出会いを目的とした裏掲示板の実態とは..!?</h1>
+                    <p>2020年09月15日20:03</p>
                 </div>
                 
-                <!--<div class="body-main-2">-->
-                <!--    <img src="{{ asset('image/uraLive_2.JPG') }}">-->
-                <!--</div>-->
+                <div class="body-main-2">
+                    <img src="{{ asset('image/lp_ad_2.JPG') }}">
+                </div>
                 
                 <div class="body-main-3">
-                    <!--<h3>生配信がエグい！マンコまる見えだし清楚系からギャル、カップル配信も・・・</h3>-->
-                    <!--<p>正直、ほんまにエグい。Pornhubとか他のアダルトサイトが全然かわいいくらいリアルな配信。むっちゃ興奮する。<br><br>だって、普通にTikTokとかあげてる子がエロ配信してるねんで？それも丸出しで。<br><br>最近はカップルちゃんねるもエロ配信始めたとか話題になって、、、まじで規制前の今だから盛り上がってる感じ！</p>-->
-                    <!--<br>-->
-                    <!--<h3>オナ電で相互オナ・見せ合いもイケる！電話セックスってまじで興奮するからやってみて！</h3>-->
-                    <!--<p>気になる女の子見つけたらオナ電誘ってみて！そうゆう目的のユーザーしかおらんから、返信くれればだいたいいける！<br><br>カメラ越しの映像とかまじで最高！普通に黙ってスクショしちゃったわwww</p>-->
-                    <!--<img src="{{ asset('image/uraLive_3.JPG') }}">-->
-                    <!--<br>-->
-                    <!--<br>-->
-                    <!--<h3>男同士で情報交換できるのもでかい！おすすめ紹介は勿論、ヤレる女情報とかもありがたいwww</h3>-->
-                    <!--<p>基本ここを使ってる男性はエロ界隈に詳しい人が多いから、ヤレる女とかセフレ交換とかの情報も熱い！<br><br>大都市は勿論、俺が住んでる奈良とか地方都市の情報もあるのでありがたい。。。女の子のTwitter ID載せてくれるしまじで使えるwww<br><br>Tinderで頑張って女引っ掛けてたのがバカらしいわwww</p>-->
-                    <!--<br>-->
-                    <h3>自粛期間中、現役ロリにオナ動画送らせてたらデータフォルダがやばい件w</h3>
-                    <img src="{{ asset('image/uraLive_4.JPG') }}">
-                    <p>ここはJ○ゾーンだけど他にももっとロリとかも！</p>
-                    <!--<br>-->
-                    <!--<h3>使い方は簡単！T</h3>-->
-                    <!--<p>TwitterみたいにIDで検索して女の子探したり、YouTubeみたいにキーワード検索してライブ配信や過去配信見たりって感じ！まー若者なら分かるっしょw</p>-->
-                    <!--<br>-->
-                    <h3>使うのは無料！だけど、いつ規制されてサービス停止されるか分からない！</h3>
-                    <p>ぶっちゃけまじで無法地帯だからいつ規制されてもおかしくない！でもまー立ち位置的には普通のSNSだし使うにあたって身分提示するような事もないし、何かあっても身バレしないのはデカイかな！<br><br>まー不安な人はやめといたほうがいいかもだけど、それでもまじで刺激的過ぎるからそっちの方が要注意かも！もう風俗じゃ満足しなくなるwww</p>
-                    <!--<img src="{{ asset('image/uraLive_5.jpg') }}">-->
-                    <!--<br>-->
-                    <!--<br>-->
-                    <h3>正直一番おすすめは紹介したくないから無理だけど、この辺りでも全然捕まえれるでー<br>使えるのはコレ！</h3>
-                    <a href="./app1" target="_blank"><img src="{{ asset('image/app_1.jpg') }}" class="wide"></a>
-                    <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
-                    <a href="./app2" target="_blank"><img src="{{ asset('image/app_2.jpg') }}" class="wide"></a>
-                    <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
-                    <a href="./app3" target="_blank"><img src="{{ asset('image/app_3.jpg') }}" class="wide"></a>
-                    <p>※Androidもあるでー！アイコン変わるけど同じアプリ</p>
-                    <!--<a href="https://preaf.jp/pa.do?s=v04031&o=46959&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>-->
-                    <!--<a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>tiktok-ura/fatey</p></span></p></a>-->
-                    <!--<img src="{{ asset('image/uraLive_7.jpg') }}">-->
-                    <!--<p>↑これな！</p>-->
-                    <!--<br>-->
-                    <!--<p>最後にちょっと宣伝！Twitterで裏系・エロ情報発信してこうと思うから、気になるやつはフォローしてやー！@adult_info_</p>-->
-                    <!--<br>-->
-                    <!--<div class="line"></div>-->
-                    <h3>どれもマッチしたらすぐカカオとか交換がおすすめ！<br>いつ無くなるか分からんしね。</h3>
+                    <h3>オナ電、セフレ、援交、パパ活 etc... ガチ裏垢女子が見つかる裏掲示板</h3>
+                    <p>某SNSを垢BANされて流れてきた裏垢女子が多数。特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>割り切りセックスは勿論、長期的な関係やオナ電募集など掲示板投稿は多岐に渡ります。</p>
+                    <img src="{{ asset('image/lp_ad_3.JPG') }}">
+                    <br>
+                    <br>
+                    <h3>連絡用TwitterIDが載っていて、即アポも可能..!?</h3>
+                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、直接SNSでやり取りするのもOK。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、<span class="red">定期的にオフ会を開催</span>しているケースも。オフ会でなにをするかは言わずもがな。</p>
+                    <img src="{{ asset('image/uraLive_1.JPG') }}">
+                    <br>
+                    <br>
+                    <h3>データフォルダに要注意..!?<br>利用男性によるハメ撮り集！</h3>
+                    <p>男性掲示板には利用ユーザーから結果の報告も。<br>※盗撮は犯罪ですので、ちゃんと許可を得てからハメ撮りしましょう。</p>
+                    <img src="{{ asset('image/lp_ad_4.JPG') }}">
+                    <br>
+                    <br>
+                    <h3>運が良ければ<br>欅坂46似の清楚系とも出会えるかも..!?</h3>
+                    <p>基本的には性欲強めなギャルやお姉さん系が多いが、中には清楚系も。清楚系は競争率高めなので、見つけたらすぐ連絡しよう。</p>
+                    <img src="{{ asset('image/lp_ad_5.JPG') }}">
+                    <br>
+                    <br>
+                    <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
+                    <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
+                    <div class="center">
+                        <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
+                    </div>
+                    <div class="line2"></div>
+                    <div class="center">
+                        <img src="{{ asset('image/lp_ad_6.JPG') }}">
+                        <p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>
+                    </div>
                     <br>
                 </div>
             </div>
-            
-            <!--<div class="ad">-->
-            <!--    <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>-->
-            <!--    <a href="https://a-trade.jp/redirect/nijikano?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/niji_600x500_001.jpg"></a>-->
-            <!--    <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>-->
-            <!--    <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>-->
-            <!--</div>-->
-            <!--<br>-->
         </div>
         <footer>
-            <p>激ヤバ話題まとめ@5ch</p>
+            <p>裏垢女子まとめ@5ch</p>
         </footer>
     </body>
 </html>
